@@ -1,0 +1,19 @@
+[
+  {
+    "role": "Guest Lect",
+    "organisation": "G j College",
+    "startDate": "Sept, 2023",
+    "endDate": "Present",
+    "experiences": ["Taught core subjects eg. OS, N/W", "Be a Project Guide"],
+    "imageSrc": "history/ppu.png"
+  }
+  ,
+  {
+    "role": "Internship",
+    "organisation": "IIT-Kharagpur",
+    "startDate": "Feb, 2018",
+    "endDate": "Feb, 2018",
+    "experiences": ["Learner, Entrepreneur, Suggester.", "Alexa workflow","Learn AI, NLP"],
+    "imageSrc": "history/IIT-Kharagpur.png"
+  }
+]

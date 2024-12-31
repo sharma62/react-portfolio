@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Pokemon App",
+    "imageSrc": "projects/pokemon.png",
+    "description": " ",
+    "skills": ["React", "Express", "Node","CSS"],
+    "demo": "https://main--stupendous-dasik-cde05e.netlify.app/",
+    "source": "https://github.com/sharma62/pokemon",
+    "mode":"completed"
+  },
+  {
+    "title": "Job Posting Board",
+    "imageSrc": "projects/JPB.png",
+    "description": " ",
+    "skills": ["React", "Express", "Node", "Tailwiind css"],
+    "demo": "https://github.com/sharma62/Job_Posting_Board",
+    "source": "https://github.com/sharma62/Job_Posting_Board",
+    "mode":"In Development"
+  },
+  {
+    "title": "IIPS School",
+    "imageSrc": "projects/iips.png",
+    "description": " ",
+    "skills": ["PHP", "Bootstrap", "HTML","Css","js"],
+    "demo": "https://blacksnwhite.com/iips/iips_school/",
+    "source": "https://github.com/sharma62/IIPS",
+    "mode":"completed"
+  },
+  {
+    "title": "Weather App",
+    "imageSrc": "projects/weather.jpeg",
+    "description": " ",
+    "skills": ["React", "Tailwiind css", "HTML","Css","js","Express","Node"],
+    "demo": "https://weather-bf177ajke-sharma62s-projects.vercel.app/",
+    "source": "https://github.com/sharma62/weather-app",
+    "mode":"completed"
+  }
+]
